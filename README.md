@@ -95,7 +95,7 @@ All metrics below come from a strict 70/30 train-test split stratified by distri
 > _(add screenshot)_
 
 > ### Historical Trends View
-> _(add screenshot)_
+> <img width="1329" height="1600" alt="Image" src="https://github.com/user-attachments/assets/834d6d7f-3a63-45eb-be6e-470db431a838" />
 
 ---
 
