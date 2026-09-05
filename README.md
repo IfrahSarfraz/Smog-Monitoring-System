@@ -89,7 +89,7 @@ All metrics below come from a strict 70/30 train-test split stratified by distri
 ## Screenshots
 
 > ### Dashboard - Smog Severity Map
-> _(add screenshot)_
+> <img width="1323" height="1600" alt="Image" src="https://github.com/user-attachments/assets/435fc018-9e1d-4077-8fd9-c26b2694fc50" />
 
 > ### Real-Time Image Analyzer
 > _(add screenshot)_
