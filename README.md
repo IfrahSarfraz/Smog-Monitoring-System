@@ -88,8 +88,6 @@ All metrics below come from a strict 70/30 train-test split stratified by distri
 
 ## Screenshots
 
-> Add screenshots of your dashboard, severity heatmap, image analyzer, and alert output here, following the same format as the example below.
-
 > ### Dashboard - Smog Severity Map
 > _(add screenshot)_
 
@@ -192,12 +190,6 @@ smog_sentinel_punjab/
 
 ---
 
-## Documentation
-
-Detailed project documentation, including methodology, DIP techniques, and validation results, can be added here as a project report.
-
----
-
 ## License
 
-This project is developed for educational and hackathon purposes. No formal open-source license has been applied yet; add a `LICENSE` file (e.g. MIT) if you intend to make this reusable by others.
+This project is developed for educational and hackathon purposes. No formal open-source license has been applied yet.
