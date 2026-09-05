@@ -92,7 +92,7 @@ All metrics below come from a strict 70/30 train-test split stratified by distri
 > <img width="1323" height="1600" alt="Image" src="https://github.com/user-attachments/assets/435fc018-9e1d-4077-8fd9-c26b2694fc50" />
 
 > ### Real-Time Image Analyzer
-> _(add screenshot)_
+> <img width="800" height="1529" alt="Image" src="https://github.com/user-attachments/assets/316ce822-f15a-47ae-9564-a30f74cb82af" />
 
 > ### Historical Trends View
 > <img width="1329" height="1600" alt="Image" src="https://github.com/user-attachments/assets/834d6d7f-3a63-45eb-be6e-470db431a838" />
