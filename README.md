@@ -78,7 +78,6 @@ All metrics below come from a strict 70/30 train-test split stratified by distri
 
 | Metric | Result |
 | --- | --- |
-| Severity classification accuracy (test) | 66.19% (train: 69.50%, gap: 3.31 pts) |
 | PM2.5 regression R² (test) | 0.8576 (train: 0.9254, gap: 0.068) |
 | Mean Absolute Error (PM2.5) | 10.94 µg/m³ |
 | Root Mean Square Error (PM2.5) | 15.91 µg/m³ |
